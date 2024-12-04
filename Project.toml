@@ -1,0 +1,4 @@
+name = "CanonicalBasisVectors"
+uuid = "749a9486-afe9-44dd-bd41-702b93f0b792"
+authors = ["Jesse Chan <jesse.lee.chan@gmail.com>"]
+version = "0.1.0"
